@@ -1,26 +1,26 @@
 # vue_test_1
 
-##Vad gubben kan göra
+## Vad gubben kan göra
 
-###Hoppa
+### Hoppa
 Skriv "hoppa" för att få gubben att hoppa, eller "hoppa högt" för att få han hoppa väldigt högt.
 
-###Snurra
+### Snurra
 Skriv "snurra" eller "do a barrel roll".
 
-###Ramla
+### Ramla
 Om du ber gubben riktigt snällt, kan han ramla. Skriv bara "ramla", "trilla" eller "falla".
 
-###Äta
+### Äta
 Skriv "äta", så äter han en hamburgare.
 
-###Sova
+### Sova
 Skriv "sova".
 
-###Stretcha
+### Stretcha
 Skriv "stretcha" för att se gubben mjuka upp sina muskler.
 
-###Dansa
+### Dansa
 Skriv "dansa" för att se gubbens och hans frus fina dans. De har dålig musiksmak.
 
 ## Sätt igång projektet
