@@ -1,3 +1,7 @@
+# VIKTIGT
+## Det här projektet uppdateras inte längre
+Detta projekt är nedlagt sedan en lång tid tillbaka. Eventuella säkerhetshål har inte täppts till sedan 2017. Använd projektet på egen risk.
+
 # vue_test_1
 
 ## Vad gubben kan göra
